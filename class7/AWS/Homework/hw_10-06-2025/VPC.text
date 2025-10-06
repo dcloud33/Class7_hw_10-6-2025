@@ -1,0 +1,9 @@
+
+
+10.122.0.0/16-IPv4 CIDR block
+10.122.1.0/24-Public A
+10.122.2.0/24-Public B
+10.122.3.0/24-Public C
+10.122.11.0/24-Private A
+10.122.12.0/24-Private B
+255.255.255.0-Subnet Mask
